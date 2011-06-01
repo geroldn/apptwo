@@ -1,3 +1,3 @@
-# Ruby on Rails Tutarial sample application
+# Ruby on Rails Tutorial sample application
 
 by [Gérold Nicolasen]
